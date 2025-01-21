@@ -23,7 +23,7 @@ Tools and Libraries🎞
 
 
 Dataset🎟
-The dataset used in this analysis includes various attributes related to movies such as genre, release year, ratings, revenue, and more. It is processed to provide meaningful insights for understanding trends in the movie industry.
+1. The dataset used in this analysis includes various attributes related to movies such as genre, release year, ratings, revenue, and more. It is processed to provide meaningful insights for understanding trends in the movie industry.
 
 Key Insights👓
 1. Patterns in revenue generation across genres.
@@ -33,7 +33,7 @@ Key Insights👓
 3. Relationship between production budgets and box office performance.
 
 Contributions🎊
-- Contributions are welcome! If you have suggestions for improvement or additional analyses, feel free to open an issue or submit a pull request.
+1. Contributions are welcome! If you have suggestions for improvement or additional analyses, feel free to open an issue or submit a pull request.
 
 
 - Author: Aditya Singh
