@@ -32,8 +32,8 @@ Key Insights👓
 
 3. Relationship between production budgets and box office performance.
 
-Contributions
-Contributions are welcome! If you have suggestions for improvement or additional analyses, feel free to open an issue or submit a pull request.
+Contributions🎊
+- Contributions are welcome! If you have suggestions for improvement or additional analyses, feel free to open an issue or submit a pull request.
 
 
 - Author: Aditya Singh
