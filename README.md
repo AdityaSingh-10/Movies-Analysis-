@@ -1,4 +1,4 @@
-# Movies Analysis⚡🌠
+# Movies Trend Analysis⚡🌠
 
 This repository contains a detailed analysis of a dataset related to movies, including key insights derived using Python. The project demonstrates proficiency in data cleaning, exploration, and visualization, which are essential skills for data analysis.
 
